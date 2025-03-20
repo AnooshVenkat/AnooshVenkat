@@ -2,7 +2,7 @@
 
 🧠 MSCS at SUNY Stony Brook </br>
 💻 Ex-SWE at Ola Electric (2022-2024) </br>
-👀 Looking for Summer '25 Internships </br>
+👀 Looking for Summer '25 SDE/MLE Internships </br>
 
 
 ## 🌐 Socials:
